@@ -1,2 +1,3 @@
-![Overview](https://github-readme-stats.vercel.app/api?username=Radioplus&include_all_commits=true&count_private=true&title_color=CC882B&text_color=185566&bg_color=20,CFBDFF,CFBDFF,FFBDFD,FFBDFD)
+![Overview](https://github-readme-stats.vercel.app/api?username=Radioplus&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=20,000000,000000,000000,000000
+)
 
